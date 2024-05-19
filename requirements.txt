@@ -1,0 +1,12 @@
+pandas
+numpy
+torch
+transformers
+langchain
+sentence-transformers
+fastapi
+uvicorn
+aiogram==2.13
+requests
+openpyxl
+rank_bm25
